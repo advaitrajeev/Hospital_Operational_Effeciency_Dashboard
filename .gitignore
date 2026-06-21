@@ -11,3 +11,4 @@ data/raw/*
 !data/raw/data_manifest.json
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/data_quality_report.md
