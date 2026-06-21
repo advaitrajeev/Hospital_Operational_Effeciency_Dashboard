@@ -6,3 +6,6 @@ xgboost==2.0.3
 plotly==5.22.0
 faker==25.8.0
 pyarrow>=10.0.0
+notebook==7.2.1
+seaborn==0.13.2
+matplotlib==3.9.0
