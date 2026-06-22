@@ -12,3 +12,5 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 !data/processed/data_quality_report.md
+data/features/*
+!data/features/.gitkeep
